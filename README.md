@@ -34,7 +34,9 @@ The data set is the grade distribution from ubcv and ubco. The data is provided 
 
 **Please remember to update this section**
 
-{Add your credits, acknowledgements, references, or citations **including a link to the data source** here}
+https://pair.ubc.ca/student-data-analytics/performance/grades-distribution/ 
+https://ubcgrades.com/
+https://github.com/DonneyF/ubcgrades
 
 
 
