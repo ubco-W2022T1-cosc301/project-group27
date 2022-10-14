@@ -1,4 +1,4 @@
-# Group YYY - {Grade Distribution and World Events}
+# Group 027 - {Grade Distribution and World Events}
 
 **Please remember to update this section**
 
