@@ -12,7 +12,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 
 **Please remember to update this section**
 
-{Add your stuff here}
+{My purpose for it is to learn about how various events within and out of Canada have affected the grades of both universities. I'm curious about how world events can affect students and their education. I want to know if there are significant changes in the grades in semesters with major events(strikes, pandemic, etc.) I can see a sort of dashboad that users could look at. It would be something simple that enders the data in a nice layout that is easy to read.}
 
 ## Describe your dataset in about 150-200 words
 
@@ -33,7 +33,6 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 {You can use this area for any images you want to include}
 
 <img src ="images/test.png" width="100px">
-<iframe src="https://giphy.com/embed/cVSWa1PDcToGc" width="480" height="274" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cVSWa1PDcToGc">via GIPHY</a></p>
 
 ## References
 
