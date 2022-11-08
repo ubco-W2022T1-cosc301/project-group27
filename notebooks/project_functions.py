@@ -7,7 +7,9 @@ def load_and_process(raw):
              .drop(['Remove', 'Source.Name','SourceFile', 'Other', 'Std Dev', 'Audit'], axis=1)
              .astype(str)
     )
-    clean = clean.drop(clean[clean.Campus == 'Campus'].index)
+    clean = (clean.drop(clean[clean.Campus == 'Campus'].index)
+             .dropna(how='all')
+             )
 
     
     return clean
