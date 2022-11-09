@@ -10,7 +10,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 
 **Please remember to update this section**
 
-My purpose for it is to learn about how various events within and out of Canada have affected the grades of both universities. I'm curious about how world events can affect students and their education. I want to know if there are significant changes in the grades in semesters with major events(strikes, pandemic, etc.) I can see a sort of dashboad that users could look at. It would be something simple that enders the data in a nice layout that is easy to read.
+My purpose for it is to learn about how various events within and out of Canada have affected the grades of both universities. I'm curious about how world events can affect students and their education. I want to know if there are significant changes in the grades in semesters with major events(strikes, pandemic, etc.) Also I'd like to see if there is an increase of the grade average over the years, to show whether students are getting better at school. I can see a sort of dashboard that users could look at a graph. It would be something simple that enders the data in a nice layout that is easy to read.
 
 ## Describe your dataset in about 150-200 words
 
