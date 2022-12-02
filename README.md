@@ -22,7 +22,7 @@ The data set is the grade distribution from ubcv and ubco. The data is provided 
 
 **Please remember to update this section**
 
-- Chris! I am here 
+- Chris! I am here! 
 
 ## Images
 
