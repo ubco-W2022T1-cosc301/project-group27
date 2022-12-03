@@ -7,12 +7,12 @@ Highlights of Analysis include some visuals
 
 Firstly let's look at the amount of data available. This graph shows the amount of data entries per campus. As we can see there is significanty more data for UBC available than data from UBCO. Mostly this is because UBC offers more years of data. More than that is that UBC has more students and more courses per semester than UBCO.
 
-![Amount of Data Entries](AmountofData.png)
+![Amount of Data Entries](images/AmountofData.png)
 
 In this graph we see the amount of averages per year
-![Amount of Averages](AmountofAverages.png)
+![Amount of Averages](images/AmountofAverages.png)
 Here is the main graph. This shows the average per year 
-![Average per Year](AverageperYear)
+![Average per Year](images/AverageperYear)
 
 results: 2-3 visuals 
 
