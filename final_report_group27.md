@@ -1,7 +1,7 @@
 Intro
 ## Grade Averages - Are they affected by Major Events?
 
-Major events both locally and globally affect a multitude of situations, the purpose of this research and analysis is to find out if it is possible to see the affect of major events on grades. I am curious if it is possible to see that there is an event during a particuler semester based off grades alone without the prior knowledge of the event. In addition, I would like to see if there is an increase in the academic intelligence of students year to year. The full analysis otebook and code can be found here.
+Major events both locally and globally affect a multitude of situations, the purpose of this research and analysis is to find out if it is possible to see the affect of major events on grades. I am curious if it is possible to see that there is an event during a particuler semester based off grades alone without the prior knowledge of the event. In addition, I would like to see if there is any change in the academic intelligence of students year to year. The full analysis otebook and code can be found here.
 
 Highlights of Analysis include some visuals
 
@@ -25,3 +25,6 @@ In 2016 there was a massive bus worker strike in BC. The strike was felt most by
 Finally in 2020, the Pandemic. A world changing event that was felt by everyone. Classes switched to being remote and many students didn't learn the same way as usual. Harder to absorb information when it was switched to remote learning. Adding to that was the immense stress of the pandemic, the price increases, and the loss of family. Lockdowns and quarantines forcing the classes online was very chaotic. The grades fell sharply because of this. However as we can see the grades have been recovering and rising since then. As people got used to remote learning and classes returned to in person the grades have improved.  
 ![Average per Year](images/AverageperYear.png)
 
+I didn't know about all of the events before doing the analysis and it was interesting to find out that there was something that caused each drop in grades. Also as can be seen by the previous graph, there is a rise in the grade average over time. One of my questions was whether it was possible to see how the academic intelligence of students changes over the years. As it turns out it is rising and at a steady pace. No matter the major event the academic intelligence recovers and increases. This could be because of an increase in the efficiency of schooling along with better literacy rates. I was surprised to find that the grades recovered so quickly aafter the initial drop of the pandemic,
+
+ In conclusion we can see by the data that major events both local and global can have an affect on the grades of students. 
