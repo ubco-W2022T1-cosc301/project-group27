@@ -9,10 +9,13 @@ Firstly let's look at the amount of data available. This graph shows the amount 
 
 ![Amount of Data Entries](images/AmountofData.png)
 
-In this graph we see the amount of averages per year
+In this graph we see the amount of average values. The data itself has cutoffs because classes with not enough people are excluded. So earlier years will have some missing data but that data can skew the results so its better to have it removed. Also in general any class that is less than 6 people will have the data removed. Here we can see that across al the averages there is a pretty even average of averages. 85 percent is the the most common average that shows up 
 ![Amount of Averages](images/AmountofAverages.png)
-Here is the main graph. This shows the average per year 
-![Average per Year](images/AverageperYear)
+
+
+
+Here is the main graph. This shows the average per year. As can been seen on hte graph there are a handful of bigger drops  
+![Average per Year](images/AverageperYear.png)
 
 results: 2-3 visuals 
 
